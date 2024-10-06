@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Linked-List",
+			"path": "Linked-List"
+		},
+		{
+			"name": "Heaps-Hashing",
+			"path": "Heaps-Hashing"
+		},
+		{
+			"name": "BinarySearch-dsa",
+			"path": "BinarySearch-dsa"
+		}
+	],
+	"settings": {}
+}
