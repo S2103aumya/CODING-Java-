@@ -1,1 +1,1 @@
-Binary Search (DS)
+Problems on Algorithms
